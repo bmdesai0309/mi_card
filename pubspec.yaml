@@ -60,8 +60,8 @@ flutter:
 
     - family: SourceSansPro
       fonts:
-        - asset: fonts/SourceSansPro-Black.ttf
-  #       - asset: fonts/SourceSansPro-Black.ttf
+        - asset: fonts/SourceSansPro-Light.ttf
+  #       - asset: fonts/SourceSansPro-Light.ttf
   #         weight: 700
   #
   # For details regarding fonts from package dependencies,
